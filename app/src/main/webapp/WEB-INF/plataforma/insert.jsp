@@ -3,12 +3,12 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8" />
-        <title>Nova Plataforma</title>
+        <title>Novo Plataforma</title>
         <link href="/css/bootstrap.min.css" rel="stylesheet" />
     </head>
     <body>
         <div class="container">
-            <h1>Nova Plataforma</h1>
+            <h1>Novo Plataforma</h1>
             <form action="/plataforma/insert" method="post">
                 <div class="form-group">
                     <label for="nome">Nome:</label>
